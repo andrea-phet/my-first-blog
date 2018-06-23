@@ -3,3 +3,10 @@ startup:
 cd djangogirls
 source myvenv/bin/activate
 python manage.py runserver
+
+
+Username (leave blank to use 'u36866'): andrea
+Email address: andreamushu@gmail.com
+Password:
+Password (again):
+Superuser created successfully.
